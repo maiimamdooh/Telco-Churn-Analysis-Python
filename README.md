@@ -2,6 +2,7 @@
 
 ## About the Dataset
 The dataset used is kaggle publicly available and contains differnent information about customers:
+[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 -  `Demographics`:
  Gender, senior citizen status, partner status, and dependents.
