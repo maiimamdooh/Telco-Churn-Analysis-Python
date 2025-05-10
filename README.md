@@ -1,5 +1,12 @@
 # Telco-Churn-Analysis
 
+## Project Overview:
+The goal of this analysis is to:
+
+- Analyze customer churn data to understand key factors associated with churn.
+- Visualize churn rates by demographic and account features.
+- Provide insights and recommendations to reduce churn.
+
 ## About the Dataset
 The dataset used is kaggle publicly available and contains differnent information about customers:
 [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
