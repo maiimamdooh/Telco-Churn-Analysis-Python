@@ -1,4 +1,5 @@
 # Telco-Churn-Analysis
+This project provides an in-depth analysis of customer churn in the telecommunications industry using Python
 
 ## Project Overview:
 The goal of this analysis is to:
